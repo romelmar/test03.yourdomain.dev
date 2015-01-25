@@ -1,0 +1,24 @@
+/*
+Theme Name: snapwire
+Theme URI:
+Description: A minimalistic, simple theme for WordPress -- supports widgets in the sidebar, all manors of post/page formatting and comes with an easy to customize stylesheet.
+
+Author: Romelmar Alejandrino
+Version: 1.0
+Template:       snapwire
+Tags: minimalistic, simple, widgets, sidebar, elegant
+*/
+/* =Imports styles from the parent theme
+-------------------------------------------------------------- */
+@import url('../snapwire/style.css');
+
+/*-----------------------------------------------------------------------------------------------*/
+#af-form-2135839229 .af-standards .af-element {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+#af-form-2135839229 .af-body {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
